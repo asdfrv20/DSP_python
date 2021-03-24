@@ -8,4 +8,4 @@ Digital Signal Processing with Python
 - 책이름: 파이썬으로 배우는 `디지털 신호처리`
 - 저자: 하석운 지음 
 - 출판사: 생능출판
-![bookcover](http://image.yes24.com/goods/90770850/800x0)
+![bookcover](http://image.yes24.com/goods/90770850/800x0){: width="160" height="200"}
